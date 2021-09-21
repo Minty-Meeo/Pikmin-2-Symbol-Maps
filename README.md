@@ -2,7 +2,7 @@
 For many years, it was thought Pikmin 2 had no symbol map.  For 3 years and 4 months, it was believed only USA Demo 1 had a symbol map.  Now, with the power of a really big Excel spreadsheet, even more versions can have approximations of their long-lost symbol map created.
 
 ## Pikmin 2 (USA Demo 1).MAP
-The original symbol map.  This was found in zz_pikmin2.tgc from Interactive Multi-Game Kiosk Demo Disc 17 USA.
+The original symbol map.  This was found in zz_pikmin2_game.tgc from Interactive Multi-Game Kiosk Demo Disc 17 USA.
 
 ## Pikmin 2 (USA v1.00).MAP
 A port of the original symbol map for the retail USA version of Pikmin 2 (MD5: 66F8D886AFA0742CD9901D1BFE3B114F).  Here are some known differences:
